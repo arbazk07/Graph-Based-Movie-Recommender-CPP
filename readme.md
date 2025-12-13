@@ -2,7 +2,7 @@
 
 A high-performance, custom-built recommendation engine that suggests movies based on genre connectivity and actor relationships. Built entirely in C++ **without using the Standard Template Library (STL)** for core data structures to demonstrate manual memory management and algorithmic understanding.
 
-## ? Key Features
+##  Key Features
 
 * **Data Structures Built from Scratch:**
     * **AVL Tree:** For O(log n) balanced searching of movie titles.
@@ -13,7 +13,7 @@ A high-performance, custom-built recommendation engine that suggests movies base
 * **Graph Algorithms:** Uses BFS to find the "shortest path" between two movies and to generate recommendations based on shared attributes.
 * **Fuzzy Search Handling:** Includes robust string parsing to handle special characters and CSV edge cases.
 
-## ??? Tech Stack
+## Tech Stack
 
 * **Language:** C++ (C++11/14 Standard)
 * **Paradigm:** Object-Oriented Programming (OOP)
