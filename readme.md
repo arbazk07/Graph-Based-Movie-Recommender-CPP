@@ -20,7 +20,7 @@ A high-performance, custom-built recommendation engine that suggests movies base
 * **Optimization:** Pointer-based manipulation to minimize data copying.
 * **Interface:** ANSI Color-coded CLI for better user experience.
 
-## ?? How to Run
+## How to Run
 
 1.  **Clone the Repository:**
     ```bash
