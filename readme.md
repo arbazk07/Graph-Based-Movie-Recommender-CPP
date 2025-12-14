@@ -41,7 +41,7 @@ A high-performance, custom-built recommendation engine that suggests movies base
 | **Recommendations** | Graph (BFS) | **O(V + E)** |
 | **Insert Movie** | AVL + Hash | **O(log N)** |
 
-## ????? Author
+## Author
 
 **Arbaz**
 * *BS Artificial Intelligence @ FAST NUCES*
