@@ -20,17 +20,6 @@ A high-performance, custom-built recommendation engine that suggests movies base
 * **Optimization:** Pointer-based manipulation to minimize data copying.
 * **Interface:** ANSI Color-coded CLI for better user experience.
 
-## How to Run
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/YOUR-USERNAME/Graph-Based-Movie-Recommender-CPP.git](https://github.com/YOUR-USERNAME/Graph-Based-Movie-Recommender-CPP.git)
-    ```
-2.  **Open in Visual Studio:**
-    * Open the `.sln` file OR import the source files.
-3.  **Compile & Run:**
-    * Ensure `movie_metadata.csv` is in the same directory as the executable.
-    * Build and Run (Ctrl+F5).
 
 ## Performance Analysis
 
