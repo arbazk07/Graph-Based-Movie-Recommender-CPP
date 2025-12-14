@@ -32,7 +32,7 @@ A high-performance, custom-built recommendation engine that suggests movies base
     * Ensure `movie_metadata.csv` is in the same directory as the executable.
     * Build and Run (Ctrl+F5).
 
-## ?? Performance Analysis
+## Performance Analysis
 
 | Operation | Data Structure | Time Complexity |
 | :--- | :--- | :--- |
