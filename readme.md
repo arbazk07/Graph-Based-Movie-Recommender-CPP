@@ -18,7 +18,7 @@ A high-performance, custom-built recommendation engine that suggests movies base
 * **Language:** C++ (C++11/14 Standard)
 * **Paradigm:** Object-Oriented Programming (OOP)
 * **Optimization:** Pointer-based manipulation to minimize data copying.
-* **Interface:** ANSI Color-coded CLI for better user experience.
+* **Interface:** ANSI Color-coded CLI for a better user experience.
 
 
 ## Performance Analysis
