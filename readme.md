@@ -17,7 +17,7 @@ A high-performance, custom-built search and recommendation engine that suggests 
 
 * **Language:** C++ (C++11/14 Standard)
 * **Paradigm:** Object-Oriented Programming (OOP)
-* **Optimization:** Pointer-based manipulation to minimize data copying.
+* **Optimization:** Pointer based manipulation to minimize data copying.
 * **Interface:** ANSI Color-coded CLI for a better user experience.
 
 
